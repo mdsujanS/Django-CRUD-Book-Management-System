@@ -2,7 +2,7 @@ Book Management System
 
 Project Overview:
 
-The objective of this project is to build a Django-based web application for managing a collection of books. You will learn how to create and manage models, views, templates, and forms in Django.
+The objective of this project is to build a Django-based web application for managing a collection of books. learn how to create and manage models, views, templates, and forms in Django.
 
 Requirements:
 
